@@ -17,3 +17,8 @@ footer{
     background-color: #666666;
     text-align:center;
 }
+
+img{
+    border-color: black;
+    border-width: 20px;
+}
